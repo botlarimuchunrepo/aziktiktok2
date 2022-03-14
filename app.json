@@ -7,9 +7,9 @@
     "video",
     "tiktok"
   ],
-  "success_url": "https://github.com/botlarimuchunrepo/TikTokDL",
+  "success_url": "https://github.com/botlarimuchunrepo/aziktiktok",
   "website": "https://github.com/azikdeveloper017",
-  "repository": "https://github.com/botlarimuchunrepo/TikTokDL",
+  "repository": "https://github.com/botlarimuchunrepo/aziktiktok",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
